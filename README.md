@@ -3,9 +3,8 @@
 A simple, stylish, **pixel-art inspired** ToDo list desktop app built with Python and PyQt6.
 
 ![demo](https://github.com/soklimkhy/pixel_todo/raw/main/asset/gif/GIF.gif)
-[![Download](https://img.shields.io/badge/Download-Pixel--Todo--v1.0.0-blue)](https://github.com/soklimkhy/pixel_todo/releases/tag/v1.0.0)
-
 ---
+[![Download](https://img.shields.io/badge/Download-Pixel--Todo--v1.0.0-blue)](https://github.com/soklimkhy/pixel_todo/releases/tag/v1.0.0)
 
 ## Features
 
