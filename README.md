@@ -83,20 +83,7 @@ todolist-py/
 - **All tasks** are stored in `config.json` in the app directory.
 - **UI** is built with PyQt6, using a custom pixel font and icons.
 - **Add/Edit/Delete** tasks using the buttons or by selecting a task and editing.
-
 ---
-
-## Credits
-
-- Pixel font: [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
-- Icons: Your own or from [iconarchive.com](https://iconarchive.com/) or similar
-
----
-
 ## License
-
-MIT License
-
----
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Enjoy your retro productivity! 🚀
