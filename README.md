@@ -2,7 +2,7 @@
 
 A simple, stylish, **pixel-art inspired** ToDo list desktop app built with Python and PyQt6.
 
-![screenshot](asset/img/screenshot.png) <!-- Add a screenshot if you have one -->
+![demo](https://github.com/soklimkhy/pixel_todo/raw/main/asset/gif/GIF.gif)
 
 ---
 
